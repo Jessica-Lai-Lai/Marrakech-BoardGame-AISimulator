@@ -1,0 +1,56 @@
+# IMPORTANT: It is very important that you correctly complete this originality
+# statement.
+#
+# This is your statement of your submitted work being your own.
+# Incorrectly filling out this statement could lead to charges
+# of academic misconduct.
+# 
+# For information on how to fill this out correctly, see
+# https://cs.anu.edu.au/courses/comp1110/help/faq/09-originality/
+#
+
+declaration: >-
+  We declare that everything we have submitted for Stage C of this assignment
+  and all stages before it is entirely our own work, with the following
+  exceptions:
+
+# Use this to list names of people who you collaborated with, and a
+# comment about what you collaborated on.
+#
+# Add as many "name+comment" entries as necessary
+# (or remove it altogether if you haven't collaborated with anyone)
+
+# Use this to list any code that you used that you did not write,
+# aside from code provided by the lecturer.  Provide a comment
+# explaining your use and the URL to that code and the licence for
+# that code
+#
+# Add as many "url+licence+comment" entries as necessary
+# (or remove it altogether if you haven't used any external code)
+
+
+# Use this to list any assets (artwork, sound, etc) that you used.
+# Provide a comment explaining your use of that asset and the URL
+# and license for the asset
+#
+# Add as many "url+licence+comment" entries as necessary
+# (or remove it altogether if you haven't used any external assets)
+assets:
+  - comment: we copied the picture "/assets/Tile.png" from the following website
+    url: https://zh.boardgamearena.com/gamepanel?game=marrakech&howtoplay_seemore=
+    licence: under the MIT license
+
+  - comment: color rgb(13, 110, 253), rgb(110, 168, 254), rgb(207, 226, 255) used in Viewer.java is taken from BootStrap5 colors
+    url: https://bootstrapdoc.com/docs/5.0/customize/color
+    licence: under the MIT license and is copyright 2020 Twitter
+
+
+# Sign *your* name and uids here. (Remove entries if you have fewer
+# than three members.)
+signatures:
+  - name: Jinqiao Jiang
+    uid: u7757596
+  - name: Aaron Nathan Vas
+    uid: u7706815
+  - name: Jessica Lai
+    uid: u7741198

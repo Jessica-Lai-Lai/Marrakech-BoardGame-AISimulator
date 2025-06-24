@@ -1,0 +1,10 @@
+50,true,Expected
+100,true,Expected
+1000,false,Expected
+10,true,Expected
+2000,false,Expected
+20,true,Expected
+5000,false,Expected
+500,true,Expected
+250,true,Expected
+1500,false,Expected

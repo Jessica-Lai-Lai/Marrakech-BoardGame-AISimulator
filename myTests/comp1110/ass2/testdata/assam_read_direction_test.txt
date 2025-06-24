@@ -1,0 +1,4 @@
+N@1@Expected 1 for direction N
+E@2@Expected 2 for direction E
+S@3@Expected 3 for direction S
+W@4@Expected 4 for direction W

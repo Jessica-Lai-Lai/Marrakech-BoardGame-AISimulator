@@ -1,0 +1,4 @@
+c,1,Expected 1 for the player id represent Cyan
+y,2,Expected 2 for the player id represent Yellow
+r,3,Expected 3 for the player id represent Red
+p,4,Expected 4 for the player id represent Purple

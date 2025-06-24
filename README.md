@@ -168,12 +168,6 @@ This project is an academic project and follows ANU's academic integrity policy.
 - Thanks to all test data providers
 - Thanks to the JavaFX community for technical support
 
-## Contact Information
-
-For questions or suggestions, please contact the development team:
-- Jinqiao Jiang: 0402379105
-- Aaron Nathan Vas: 0404839780  
-- Jessica Lai: 0476238872
 
 ---
 
